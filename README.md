@@ -94,11 +94,5 @@ python PartC.py
 - **Vowel formants (Hz):**  
   /i/ 300, 2400, 3000 | /e/ 500, 1900, 2500 | /a/ 800, 1200, 2600 | /o/ 500, 900, 2400 | /u/ 350, 700, 2400 (bandwidths in code).
 
----
 
-## Assignment PDF
-
-The full handout (tasks, deliverables, report structure) is: **SLP_Assignment01_Section2.pdf** (in the course materials). Submit the report (2–4 pages) plus this code/data folder as required.
-
----
 
