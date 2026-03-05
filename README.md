@@ -1,8 +1,5 @@
 # SLP Assignment 01 — Vowel Acoustics, Pitch & Source–Filter Synthesis
 
-**Spoken Language Processing — Fall 2025/2026**  
-Group: 1220871, 1220031, 1220184
-
 This repository contains the implementation for **Assignment 01** (Section 2): vowel data collection & acoustic analysis (**Part A**), pitch (F₀) measurement (**Part B**), and source–filter vowel synthesis (**Part C**).
 
 ---
@@ -105,12 +102,3 @@ The full handout (tasks, deliverables, report structure) is: **SLP_Assignment01_
 
 ---
 
-## Authors
-
-- 1220871  
-- 1220031  
-- 1220184  
-
-## License
-
-For academic/educational use. When using participant recordings, ensure consent and do not include identifying information in the submission.
